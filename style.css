@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lora', serif;
+}
+h1{
+    font-size: 50px;
+}
+.highlighted-name{
+    color: orangered;
+}
+.upper-content{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.upper-content img{
+    width: 100%;
+}
